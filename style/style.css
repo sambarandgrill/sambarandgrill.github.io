@@ -102,3 +102,7 @@ background: url('../imgs/samhead.png') no-repeat center center/ cover;
 section#about{
 background: url('../imgs/hisam.png') no-repeat center center/ cover;
 }
+
+section#bng{
+background: url('../imgs/laugh_wmn.png') no-repeat center center/ cover;
+}
