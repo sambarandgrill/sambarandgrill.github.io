@@ -95,6 +95,10 @@ font-size: 3rem;
 text-decoration: none;
 }
 
-section#about{
+section#home{
 background: url('../imgs/samhead.png') no-repeat center center/ cover;
+}
+
+section#about{
+background: url('../imgs/hisam.png') no-repeat center center/ cover;
 }
