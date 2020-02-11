@@ -92,4 +92,9 @@ height: 100vh;
 
 section p{
 font-size: 3rem;
+text-decoration: none;
+}
+
+section#about{
+background: url('../imgs/samhead.png') no-repeat center center/ cover;
 }
