@@ -36,6 +36,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	height: 100vh;
+	font-family:'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
+	color: hsla(120,100%,50%,0.3);
+	text-decoration: none;
 }
 ol, ul {
 	list-style: none;
@@ -54,7 +57,10 @@ table {
 }
 
 /*rachey's code :)*/
-
+a{
+color: hsla(120,100%,50%,0.5);
+        text-decoration: none;
+}
 .container{
 	width: 100%;
 	height: 100%;
